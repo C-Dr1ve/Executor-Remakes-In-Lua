@@ -1236,7 +1236,7 @@ local script = cdwashere["4c"];
 	if script.Parent.Parent.Enabled ~= true then
 		return
 	end
-	loadstring(game:HttpGet("githublololol"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/C-Dr1ve/Executor-Remakes-In-Lua/refs/heads/main/Logos/Stigma.lua"))()
 end;
 task.spawn(C_4c);
 
